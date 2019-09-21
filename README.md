@@ -7,6 +7,12 @@ In our end we connected it through Home Assistant to get push notifications on d
 
 Nothing too fancy, but it does something good.
 
+![Miss u Machine](https://www.niccolobusato.it/Github/Images/Miss-u-Machine/img.jpg)
+
+##### iOS Notification via Home Assistant
+<img src="/libraries/miss_gif.gif?raw=true">
+
+
 ## Parts
 | Items  | Quantity | 
 | ------------- | :---: | 
